@@ -1,0 +1,4 @@
+381 Twinscan  CDS          380   401   .   +   0  gene_id "001"; transcript_id "001.1";
+381 Twinscan  CDS          700   707   .   +   2  gene_id "001"; transcript_id "001.1";
+381 Twinscan  start_codon  380   382   .   +   0  gene_id "001"; transcript_id "001.1";
+381 Twinscan  stop_codon   708   710   .   +   0  gene_id "001"; transcript_id "001.1";
