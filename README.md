@@ -8,4 +8,4 @@ Ellen Duong, George Dang, and John Holland
 
 # Contact
 
-For assistance, contact cbc-help@brown.edu - this is our general help line, so please specify that your issue is with the Python workshop.
+For assistance, contact support@brown.edu - this is our general help line, so please specify that your issue is with the Python workshop.
