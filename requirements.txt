@@ -18,13 +18,13 @@ dill
 numba
 bokeh
 sqlalchemy
-hdf5
+h5py
 vincent
 beautifulsoup4
 protobuf
 xlrd
 bottleneck
-pytables
+tables
 
 # required for environment and plugins ( DO NOT REMOVE THESE!!! )
 ipython 
