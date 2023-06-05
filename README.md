@@ -10,4 +10,5 @@ Ellen Duong, George Dang, and John Holland
 
 # Contact
 
-For assistance, contact support@brown.edu - this is our general help line, so please specify that your issue is with the Python workshop.
+For assistance, use the CCV-Share Slack channel for today's workshop: 
+https://ccv-share.slack.com/archives/C0562DCNCD7 
