@@ -1,0 +1,94 @@
+parameter_name,parameter_code,class,tier1
+PM2.5 - Local Conditions,88101,particlate,FALSE
+Black carbon PM2.5 STP,84313,particlate,FALSE
+Wind Direction - Resultant,61104,physical,FALSE
+Std Dev Vt Wind Direction,61107,physical,FALSE
+Relative Humidity,62201,physical,FALSE
+Outdoor Temperature,62101,physical,FALSE
+"Particle Number, Total Count",87101,particlate,FALSE
+Wind Speed - Resultant,61103,physical,FALSE
+PM10 Total 0-10um STP,81102,particlate,FALSE
+Formaldehyde,43502,carbonyl,TRUE
+Benzaldehyde,45501,carbonyl,FALSE
+Acetaldehyde,43503,carbonyl,TRUE
+Acetone,43551,carbonyl,FALSE
+Cadmium PM10 STP,82110,metals,TRUE
+Chromium PM10 STP,82112,metals,FALSE
+Lead PM10 STP,82128,metals,TRUE
+Manganese PM10 STP,82132,metals,TRUE
+Nickel PM10 STP,82136,metals,TRUE
+Arsenic PM10 STP,82103,metals,TRUE
+Beryllium PM10 STP,82105,metals,TRUE
+Antimony PM10 STP,82102,metals,FALSE
+"1,2-Dichloropropane",43829,voc,FALSE
+Vinyl chloride,43860,voc,TRUE
+n-Octane,43233,voc,FALSE
+o-Xylene,45204,voc,FALSE
+Toluene,45202,voc,FALSE
+Benzene,45201,voc,TRUE
+m/p Xylene,45109,voc,FALSE
+"1,2,4-Trimethylbenzene",45208,voc,FALSE
+Styrene,45220,voc,FALSE
+Acrylonitrile,43704,voc,FALSE
+"2,2,4-Trimethylpentane",43250,voc,FALSE
+"1,3,5-Trimethylbenzene",45207,voc,FALSE
+Trichloroethylene,43824,voc,TRUE
+Cyclohexane,43248,voc,FALSE
+n-Heptane,43232,voc,FALSE
+n-Butane,43212,voc,FALSE
+n-Pentane,43220,voc,FALSE
+n-Hexane,43231,voc,FALSE
+Ethylene dichloride,43815,voc,FALSE
+"1,4-Dichlorobenzene",45807,voc,FALSE
+"trans-1,3-Dichloropropene",43830,voc,FALSE
+Ethylene dibromide,43843,voc,FALSE
+Chlorobenzene,45801,voc,FALSE
+"1,1,2,2-Tetrachloroethane",43818,voc,FALSE
+"1,1-Dichloroethylene",43826,voc,FALSE
+"1,3-Dichlorobenzene",45806,voc,FALSE
+Tetrachloroethylene,43817,voc,TRUE
+"cis-1,3-Dichloropropene",43831,voc,FALSE
+"1,1-Dichloroethane",43813,voc,FALSE
+Butyl benzene,45233,voc,FALSE
+Dichloromethane,43802,voc,FALSE
+"1,1,1,2-Tetrachloroethane",43837,voc,FALSE
+Trichlorofluoromethane,43811,voc,FALSE
+Ethylbenzene,45203,voc,FALSE
+"1,3-Butadiene",43218,voc,TRUE
+"1,1,2-Trichloroethane",43820,voc,FALSE
+Carbon tetrachloride,43804,voc,TRUE
+Chloromethane,43801,voc,FALSE
+Acrolein - Verified,43509,voc,TRUE
+"trans-1,2-Dichloroethylene",43838,voc,FALSE
+Methyl chloroform,43814,voc,FALSE
+Chloroethane,43812,voc,FALSE
+Methyl ethyl ketone,43552,carbonyl,FALSE
+"1,2,4-Trichlorobenzene",45810,voc,FALSE
+Chloroform,43803,voc,TRUE
+"1,2-Dichlorobenzene",45805,voc,FALSE
+Naphthalene,45850,pah,TRUE
+Bromoform,43806,voc,FALSE
+Methyl tert-butyl ether,43372,voc,FALSE
+"Indeno[1,2,3-cd]pyrene (TSP) STP",17243,pah,FALSE
+Benzo[a]pyrene (TSP) STP,17242,pah,TRUE
+Benzo[a]anthracene (TSP) STP,17215,pah,FALSE
+Benzo[e]pyrene (TSP) STP,17224,pah,FALSE
+"Dibenzo[a,h]anthracene (TSP) STP",17231,pah,FALSE
+"Benzo[g,h,i]perylene (TSP) STP",17237,pah,FALSE
+Benzo[k]fluoranthene (TSP) STP,17223,pah,FALSE
+Anthracene (TSP) STP,17151,pah,FALSE
+Fluoranthene (TSP) STP,17201,pah,FALSE
+Pyrene (TSP) STP,17204,pah,FALSE
+Coronene (TSP) STP,17211,pah,FALSE
+Fluorene (TSP) STP,17149,pah,FALSE
+Naphthalene (TSP) STP,17141,pah,FALSE
+Phenanthrene (TSP) STP,17150,pah,FALSE
+Acenaphthene (TSP) STP,17147,pah,FALSE
+Perylene (TSP) STP,17212,pah,FALSE
+Acenaphthylene (TSP) STP,17148,pah,FALSE
+Ethylene oxide,43601,voc,FALSE
+Bromomethane,43819,voc,FALSE
+alpha.-Pinene,43256,voc,FALSE
+Benzo[b]fluoranthene (TSP) STP,17220,pah,FALSE
+Chrysene (TSP) STP,17208,pah,FALSE
+Chloroprene,43835,voc,FALSE
