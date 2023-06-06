@@ -11,4 +11,9 @@ Ellen Duong, George Dang, and John Holland
 # Contact
 
 For assistance, use the CCV-Share Slack channel for today's workshop: 
-https://ccv-share.slack.com/archives/C0562DCNCD7 
+https://ccv-share.slack.com/archives/C0562DCNCD7
+
+# Setup the project
+```bash
+pip install -e .
+```
