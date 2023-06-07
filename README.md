@@ -45,27 +45,9 @@ conda activate /gpfs/data/bootcamp-python/venv
 The prompt will change, to look something like: 
 `(/gpfs/data/datasci/bootcamp-python/venv) [userid@login006 ~]$`
 
-Login to GitHub by calling:
-```bash
-gh auth login
-```
-
-- At the prompts, select:
-    - "? What account do you want to log into?" `GitHub.com`
-    - "? What is your preferred protocol for Git operations?" `HTTPS`
-    - "? Authenticate Git with your GitHub credentials?" `Y`
-    - "? How would you like to authenticate GitHub CLI?" `Login with a web browser`
-
-- At the prompt "! First copy your one-time code:" copy your one-time code which looks like `AB12-34CD`.
-- At this point, don't press `Enter`. Instead, open a new tab in your web browser and navigate to [https://github.com/login/device](https://github.com/login/device)
-- There, paste the one-time code.
-- On the next page, select `Authorize github`.
-- Follow any other prompts to complete your login.
-- Return to the Oscar window and press enter. There may be an error or a delay, but eventually the Oscar prompt will return (if this takes longer than about a minute, ask for assistance).
-
 Clone the repository using the command:
 ```bash
-gh repo clone brown-ccv/ccv-bootcamp-python-2023 
+git clone https://github.com/brown-ccv/ccv-bootcamp-python-2023
 ```
 
 Enter the repository directory using the command:
