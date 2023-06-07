@@ -4,6 +4,8 @@ This repository contains Jupyter notebooks for a workshop by the for the [CCV Bo
 
 You can open the repository on the CCV Jupyter Hub using [this link](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fccv-bootcamp-python-2023&urlpath=lab%2Ftree%2Fccv-bootcamp-python-2023%2F&branch=main).
 
+[Slides for Python Programming Basics](https://docs.google.com/presentation/d/1WYDiY4YUd78zdWkum3kkSNI6ZnTd6C_PMwNRZPCi37Y/edit?usp=sharing)
+
 # Authors
 
 Ellen Duong, George Dang, and John Holland
