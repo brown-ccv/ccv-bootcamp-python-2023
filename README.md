@@ -37,9 +37,14 @@ Then run the following commands. First, load the necessary modules:
 module load "anaconda/2022.05"
 ```
 
+If this is your first time running conda on oscar, initialize it:
+```bash
+conda init bash
+```
+
 Activate the conda environment:
 ```bash
-conda activate /gpfs/data/bootcamp-python/venv
+conda activate /gpfs/data/datasci/bootcamp-python/venv
 ```
 
 The prompt will change, to look something like: 
