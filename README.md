@@ -72,3 +72,32 @@ Enter the repository directory using the command:
 ```bash
 cd ccv-bootcamp-python-2023
 ```
+
+## Open the repository in Jupyter Notebook
+
+To open the Jupyter Notebook in OpenOnDemand, first navigate to [ood.ccv.brown.edu](https://ood.ccv.brown.edu).
+
+There select the Jupyter Notebook app:
+![On ood.ccv.brown.edu, under the heading "Default GUIs", selection: "Basic Jupyter Notebook, System Installed App"](assets/ood-default-guis-jupyter-selected.png)
+
+You should make the following selections:
+- Oscar Anaconda Module: `anaconda/2022.05`
+- Conda env: `/gpfs/data/datasci/bootcamp-python/venv`
+- Modules: Leave empty
+- Extra Jupyter args: Leave empty
+- Number of cores: `1`
+- Memory per job: `default`
+- Number of GPUs: `1` (this will be ignored)
+- Condo account: Leave empty
+- Partition: Leave empty
+- Reservation: Leave empty
+- Number of hours: 8
+
+Then click the "Launch" button.
+![on ood.ccv.brown.edu, launch button](assets/ood-jupyter-launch-button.png)
+
+On the next page, you will see a "Basic Jupyter Notebook" card with the current status, and once the notebook has been started, you can click on "Connect to Jupyter" to launch the Jupyter session.
+![on ood.ccv.brown.edu, a card displaying a running "Basic Jupyter Notebook" with the "Connect to Jupyter" button visible](assets/ood-basic-jupyter-notebook-running.png)
+
+In the notebook interface you can navigate to the `ccv-bootcamp-python-2023` directory and access the 
+session notebooks.
