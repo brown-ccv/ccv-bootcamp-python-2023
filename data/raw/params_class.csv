@@ -1,13 +1,13 @@
-parameter_name,parameter_code,class,tier1
-PM2.5 - Local Conditions,88101,particlate,FALSE
-Black carbon PM2.5 STP,84313,particlate,FALSE
+parameter_name,parameter_code,param_class,tier1
+PM2.5 - Local Conditions,88101,particulate,FALSE
+Black carbon PM2.5 STP,84313,particulate,FALSE
 Wind Direction - Resultant,61104,physical,FALSE
 Std Dev Vt Wind Direction,61107,physical,FALSE
 Relative Humidity,62201,physical,FALSE
 Outdoor Temperature,62101,physical,FALSE
-"Particle Number, Total Count",87101,particlate,FALSE
+"Particle Number, Total Count",87101,particulate,FALSE
 Wind Speed - Resultant,61103,physical,FALSE
-PM10 Total 0-10um STP,81102,particlate,FALSE
+PM10 Total 0-10um STP,81102,particulate,FALSE
 Formaldehyde,43502,carbonyl,TRUE
 Benzaldehyde,45501,carbonyl,FALSE
 Acetaldehyde,43503,carbonyl,TRUE
