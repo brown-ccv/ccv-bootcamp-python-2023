@@ -38,28 +38,15 @@ Select the Oscar Shell Access App:
 
 Then run the following commands. First, load the necessary modules:
 ```bash
-module load "anaconda/2022.05"
+module load "git/2.29.2"
 ```
-
-If this is your first time running conda on oscar, initialize it:
-```bash
-conda init bash
-```
-
-Activate the conda environment:
-```bash
-conda activate /gpfs/data/datasci/bootcamp-python/venv
-```
-
-The prompt will change, to look something like: 
-`(/gpfs/data/datasci/bootcamp-python/venv) [userid@login006 ~]$`
 
 Clone the repository using the command:
 ```bash
 git clone https://github.com/brown-ccv/ccv-bootcamp-python-2023
 ```
 
-Enter the repository directory using the command:
+Check you can enter the repository directory using the command:
 ```bash
 cd ccv-bootcamp-python-2023
 ```
@@ -72,7 +59,7 @@ There select the Jupyter Notebook app:
 ![On ood.ccv.brown.edu, under the heading "Default GUIs", selection: "Basic Jupyter Notebook, System Installed App"](assets/ood-default-guis-jupyter-selected.png)
 
 You should make the following selections:
-- Oscar Anaconda Module: `anaconda/2022.05`
+- **Oscar Anaconda Module: `anaconda/2022.05`**
 - Conda env: `/gpfs/data/datasci/bootcamp-python/venv`
 - Modules: Leave empty
 - Extra Jupyter args: Leave empty
