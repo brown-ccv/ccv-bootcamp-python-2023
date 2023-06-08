@@ -4,6 +4,8 @@ This repository contains Jupyter notebooks for a workshop by the for the [CCV Bo
 (https://docs.ccv.brown.edu/bootcamp-2023/schuedule/wednesday-5-may-1), around an introduction 
 to Python and data wrangling with Python. 
 
+[Slides for Python Programming Basics](https://docs.google.com/presentation/d/1WYDiY4YUd78zdWkum3kkSNI6ZnTd6C_PMwNRZPCi37Y/edit?usp=sharing)
+
 # Authors
 
 Ellen Duong, George Dang, and John Holland
