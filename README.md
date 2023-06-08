@@ -19,6 +19,8 @@ It was adapted from previous CCV's annual
 For assistance, use the CCV-Share Slack channel for today's workshop: 
 https://ccv-share.slack.com/archives/C0562DCNCD7
 
+You may need to sign up here first: https://ccv-share.slack.com/signup#/
+
 # Get Started with the project
 
 This workshop will run on Jupyter Notebooks. If you're using Brown University Open On Demand, 
